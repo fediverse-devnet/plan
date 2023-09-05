@@ -1,0 +1,74 @@
+(Very early draft. Please comment.)
+
+Overall vision: A Thriving Fediverse.
+
+This means, among others:
+
+* many apps of high quality and with broad and diverse feature sets from many developers
+  are easily available to users;
+
+* these apps richly and reliably interoperate with each other;
+
+* thereby forming the federated Fediverse network, which aims to deliver at least as good
+  and valuable user experiences as today's centralized services, even as users choose
+  different apps to interact with each other;
+
+* created and maintained by an ever-growing community of developers world-wide;
+
+* who can quickly and reliably deliver these interoperable apps to users.
+
+(Note: this list is focused on developers, mostly to avoid "feature creep" for the purposes
+of this list. Obviously a thriving fediverse means many other important things, in particular
+to users -- like not being manipulated or tracked against their will -- but not in this
+list to maintain focus in our developer-focused specific discussion.)
+
+--------
+
+The Fediverse Developer Network supports this vision by working towards the following
+objectives:
+
+(objective 1) providing documentation, code samples, developer tools and the like to
+    enable new and established Fediverse developers to deliver apps that interoperate
+    with already-existing apps confidently, and as quickly and reliably as possible;
+
+(objective 2) hosting communications & collaboration infrastructure (e.g. discussion groups,
+    online meetings, bug trackers, repos for test cases etc) that enables developers
+    to learn from each other and solve problems (such as interop problems or cross-app
+    usability problems) together.
+
+(objective 3) collecting interoperability use cases currently not addressed well by
+    existing implementations, and providing a forum where interested parties can collaborate
+    on attempting to address them in a way that ultimately can benefit the entire
+    Fediverse.
+
+--------
+
+Specifically, in the shorter and medium-term future, we will:
+
+(work stream 1) Set up and maintain a single, authoritative destination website from where
+    new developers can easily find all information and tools they need for (objective 1)
+    to the extent they exist;
+
+(work stream 2) Perform a gap analysis between what is readily available from (work stream 1)
+    and what should be available to meet (objective 1) well. (e.g. test suite; hello
+    world sample code, ....) Formulate a plan how to close identified gaps.
+
+(work stream 3) Continue to maintain existing online discussions groups, which already
+    support (objective 2). Integrate them into the authoritative destination website
+    so developers will easily and confidently use the right group at the right time.
+
+(work stream 4) Find a way to periodically conduct and sustain live on-line meetings for
+    networking and learning between developers, to support (objective 2).
+
+(work stream 5) Find a way to host forward-looking discussions that go beyond
+    established protocols and conventions that inform future protocol work, without
+    confusing new developers or taking the risk of the Fediverse being "Osborned",
+    to support (objective 3). This may include prototyping, the development and
+    documentation of new or extension of existing protocols.
+
+
+We will not:
+
+* perform any standards work; instead, we will provide feedback or proposals to
+  existing standards organizations and work with them as needed.
+
